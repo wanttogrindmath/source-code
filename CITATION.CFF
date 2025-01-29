@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Myrzakhan"
+  given-names: "Yersultan"
+title: "source-code"
+version: 1.0.0
+date-released: 2025-01-28
+url: "https://github.com/wanttogrindmath/source-code"
